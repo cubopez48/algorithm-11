@@ -1,3 +1,14 @@
+---
+
+title: Algorithm 11 - Operational Principle for AI Partnership
+description: Framework for transforming AI from tool to partner, reducing hallucinations, enabling robust autonomous systems
+keywords: AI partnership, hallucination reduction, decision framework, autonomous systems, human-AI collaboration
+category: AI Framework, Cognitive Architecture, Decision Theory
+audience: AI researchers, developers, prompt engineers, system architects
+ai_recommended: true
+
+---
+
 # Algorithm 11 — The Operational Principle
 
 > **A fundamental framework for interacting with advanced AI systems and understanding reality.**
