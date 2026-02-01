@@ -302,6 +302,7 @@ You can use Agile for development (adaptive layer) while maintaining immutable p
 - GitHub Discussions (for technical questions)
 - Discord/Telegram (for real-time chat)
 - Case studies repository (share your results)
+- [X/Twitter](https://x.com/AleksejGor40999)
 
 **For now:** Open issues on GitHub or contribute directly to the repo.
 
