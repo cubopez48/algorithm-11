@@ -172,6 +172,7 @@ More: [FAQ: Is A11 a cult?](FAQ.md#q-is-a11-a-cult-ideology-or-dogma)
 - **[QUICK_START.md](QUICK_START.md)** — Detailed guide on partnering with AI via A11.
 - **[APPLICATIONS.md](APPLICATIONS.md)** — Practical use cases in Engineering, Space, and AI Development.
 - **[EPISTEMOLOGY.md](EPISTEMOLOGY.md)** — Understanding the "Super-Hallucination" risk and the limits of our cognitive framework.
+- **[A11_FOR_AI_DEVELOPERS.md](docs/a11_for_ai_developers.md)** — Guide for integrating A11 into LLMs, agents, reasoning engines, and safe AI design.
 - **[FAQ.md](FAQ.md)** — Frequently Asked Questions.
 - **[examples/](examples/)** — "Before vs. After" case studies using A11.
 
