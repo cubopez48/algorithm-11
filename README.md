@@ -161,6 +161,10 @@ More: [FAQ: Is A11 a cult?](FAQ.md#q-is-a11-a-cult-ideology-or-dogma)
 
 ---
 
+![Algorithm 11 — Structural Diagram](a11-diagram.svg)
+
+---
+
 ## 📚 Documentation
 
 - **[ALGORITHM_11.md](ALGORITHM_11.md)** — Comprehensive A11 description (structure, properties, laws).
