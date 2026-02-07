@@ -59,7 +59,7 @@ When you provide this principle to an AI, its behavior shifts:
 
 ---
 
-## 🚀 Quick Start: Use A11 with your AI
+## 🚀 Quick Start: Use standard A11 specification with your AI
 
 ### Step 1: Copy the Prompt Below
 
@@ -126,6 +126,17 @@ Confirm that you understand this structure and are ready to operate as a partner
 - Proposes solutions you might have overlooked.
 - Helps avoid systemic errors.
 - Prioritizes quality and depth over mere speed.
+
+---
+
+## A11 Universal Partner Protocol (v4.0)
+
+**Optimized version for everyday users.**  
+Provides a simplified, powerful interaction model focused on clarity, honesty, and goal‑aligned reasoning.
+
+For researchers and developers, the **standard A11 specification** is recommended for full structural understanding.
+
+👉 [A11 Universal Partner Protocol — v4.0](https://github.com/gormenz-svg/algorithm-11/blob/main/docs/A11-v4.0.md)
 
 ---
 
