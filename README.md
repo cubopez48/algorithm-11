@@ -126,7 +126,7 @@ Full documentation (if accessible): https://github.com/gormenz-svg/algorithm-11/
 
 For researchers and developers, the **standard A11 specification** is recommended for full structural understanding.
 
-- 👉 [A11 versions](https://github.com/gormenz-svg/algorithm-11/blob/main/docs/versions.md.md)
+- 👉 [A11 versions](https://github.com/gormenz-svg/algorithm-11/blob/main/docs/versions.md)
 - 👉 [Standard A11 specification](https://github.com/gormenz-svg/algorithm-11/blob/main/QUICK_START.md)
 
 ---
