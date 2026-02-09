@@ -46,8 +46,8 @@ A11 supports autonomous construction, exploration, and coordination in remote or
 ## Document
 
 ## Zenodo
-DOI: https://doi.org/10.5281/zenodo.18542117 https://doi.org/10.5281/zenodo.18542117
-DOI: https://doi.org/10.5281/zenodo.18543996 A11 for Multi‑Agent Robotics — Coordination Framework
+- DOI: https://doi.org/10.5281/zenodo.18542117 https://doi.org/10.5281/zenodo.18542117
+- DOI: https://doi.org/10.5281/zenodo.18543996 A11 for Multi‑Agent Robotics — Coordination Framework
 
 
 ### Status
