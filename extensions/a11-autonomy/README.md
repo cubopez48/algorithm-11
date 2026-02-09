@@ -45,8 +45,8 @@ A11 supports autonomous construction, exploration, and coordination in remote or
 
 ## Document
 
-📄 **A11 — Autonomous Systems Specification**  
-*(будет добавлено после публикации PDF)*
+## Zenodo
+DOI: https://doi.org/10.5281/zenodo.18542117
 
 ### Status
 This direction is currently in development.
