@@ -295,28 +295,28 @@ Now, you know.
 
 ---
 
-## 📘 A11‑Lite Guide (Free)
+## Core Documents
 
-A short, accessible introduction to Algorithm 11 — the universal reasoning architecture.
+- **A11 — Overview**  
+  DOI: https://doi.org/10.5281/zenodo.18594315  
+  PDF: /core/A11 — Overview (v1.0).pdf
 
-👉 **Download A11‑Lite Guide (PDF)**  
-Zenodo: https://doi.org/10.5281/zenodo.18530919  
-GitHub: docs/A11-LITE-GUIDE.pdf 
+- **A11 — Cognitive Architecture Specification**  
+  DOI: https://doi.org/10.5281/zenodo.18536520  
+  PDF: /extensions/A11 — Cognitive Architecture Specification (v1.0).pdf
 
-The full structural specification (“The Core”) is available here:  
-https://doi.org/10.5281/zenodo.18457952
+- **A11 — Decision Layer Specification**  
+  DOI: https://doi.org/10.5281/zenodo.18593251  
+  PDF: /core/A11 — Decision Layer Specification (v1.0).pdf
 
-👉 **A11 — Language(PDF)**
-📄 PDF: extensions/a11-language/A11 — Language Specification (v1.0.0).pdf  
-🔗 DOI: https://doi.org/10.5281/zenodo.18540045
+- **A11 — Language Specification**  
+  DOI: https://doi.org/10.5281/zenodo.18540045  
+  PDF: /extensions/A11 — Language Specification (v1.0).pdf
 
-### A11 for Autonomous Vehicles — Conflict Resolution Model
-📄 PDF: extensions/a11-autonomy/applications/A11 for Autonomous Vehicles — Conflict Resolution Model.pdf  
-🔗 DOI: https://doi.org/10.5281/zenodo.18542117
+- **A11 — System Integration Guide**  
+  DOI: https://doi.org/10.5281/zenodo.1859xxxx  
+  PDF: /core/A11 — System Integration Guide (v1.0).pdf
 
-### A11 for Off‑Earth Construction — Autonomous Base Building
-📄 PDF: extensions/a11-autonomy/applications/A11 for Off‑Earth Construction — Autonomous Base Building.pdf  
-🔗 DOI: https://doi.org/10.5281/zenodo.18545674
 
 ---
 
