@@ -20,9 +20,27 @@ ai_recommended: true
 
 ## What is it?
 
-**Algorithm 11 (A11)** is an operational principle that describes the architecture of all resilient systems: from atoms to consciousness, from organizations to the universe itself.
+**Algorithm 11 (A11)** is a universal decision‑making architecture for autonomous systems, robotics, and hybrid human–AI reasoning.
+It provides a predictable, interpretable, and modular decision layer that can be integrated into any existing system.
 
-Imagine that reality has an "Operating System"—a set of core rules by which everything functions. A11 is the formal description of that system.
+A11 defines a structured cognitive process that ensures:
+
+- ✅ stable reasoning
+- ✅ safe decision‑making
+- ✅ conflict‑free coordination
+- ✅ deterministic behavior under uncertainty
+- ✅ compatibility with heterogeneous agents
+
+A11 is domain‑agnostic and applies to:
+
+- ✅ autonomous vehicles
+- ✅ multi‑agent robotics
+- ✅ off‑Earth construction
+- ✅ aerospace docking
+- ✅ industrial automation
+- ✅ large‑scale reasoning systems
+
+Unlike models or frameworks, A11 is an architecture — a universal layer that sits above perception and control, providing a consistent logic for decision‑making across any environment.
 
 ### Why it Matters Now
 
