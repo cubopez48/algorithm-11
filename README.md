@@ -157,11 +157,11 @@ Full documentation (if accessible): https://github.com/gormenz-svg/algorithm-11/
 
 ## A11‑Lite Documentation
 
-- `ALGORITHM_11.md` — full description  
-- `QUICK_START.md` — how to use A11 in chat  
-- `APPLICATIONS.md` — practical use cases  
-- `EPISTEMOLOGY.md` — super‑hallucination risk  
-- `COSMOLOGY.md` — extended reality model  
+- `lite/ALGORITHM_11.md` — full description  
+- `lite/QUICK_START.md` — how to use A11 in chat  
+- `lite/APPLICATIONS.md` — practical use cases  
+- `lite/EPISTEMOLOGY.md` — super‑hallucination risk  
+- `lite/COSMOLOGY.md` — extended reality model  
 - `examples/` — A11 vs standard AI comparisons  
 
 ---
